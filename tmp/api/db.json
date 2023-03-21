@@ -1,0 +1,12 @@
+{
+  "cuentas": [
+    {
+      "firstname": "Santiago",
+      "lastname": "Sepulveda",
+      "email": "smontoya660@soyudemedellin.edu.co",
+      "pass": "Smm2003321",
+      "polity": true,
+      "id": 1
+    }
+  ]
+}
